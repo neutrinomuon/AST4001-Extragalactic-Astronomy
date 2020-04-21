@@ -1,0 +1,1 @@
+Hubble Deep Field South Directory containing the UBVRI photometry of galaxies.
