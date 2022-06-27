@@ -20,7 +20,7 @@ import numpy as np
 # SampleStatistics_lista_SDSS_CALIFA.txt.table
 # SampleEmissionEL_lista_SDSS_CALIFA.txt.table
 
-FluxUnit = 1.e-17
+FluxUnit = 1.e-17 #[erg/s/cm^2/Angstrom] - Factor from SDSS - https://www.sdss.org/dr12/spectro/spectro_basics/
 file_stats = 'SampleStatistics_lista_SDSS_CALIFA.txt.table'
 file_emlin = 'SampleEmissionEL_lista_SDSS_CALIFA.txt.table'
 
@@ -31,7 +31,7 @@ count_lines = len(open(file_stats).readlines( ))
 print("# of lines in the statistics file are: {}".format(count_lines))
         
 spectrum = [] #00 -> Spectrum
-galsnorm = [] #03 -> Normalization
+galsnorm = [] #03 -> Normalization from FADO - Multiplicative factor needed to be used for fluxes and luminosities
 L_DisMpc = [] #04 -> Luminosity distance in Mpc
 Gnebular = [] #10 -> Nebular extinction
 GnebBdev = [] #12 -> Nebular extinction error
