@@ -1,8 +1,7 @@
-# AST4001
-AST4001 - Extragalactic Course<br>
+### AST4001 - Extragalactic Course
 
-<center>Assignment<br>
+<center>Assignment 2023<br>
 
 ANALYSIS OF SPECTROPHOTOMETRIC AND PHYSICAL PROPERTIES OF GALAXIES<br></center>
 
-Star Formation History of galaxies
+Star Formation and Chemical Evolution History of galaxies
