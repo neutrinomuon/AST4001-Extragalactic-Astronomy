@@ -1,3 +1,6 @@
+<!-- _backgroundColor: "white" -->
+
+
 ### AST4001 - Extragalactic Course
 
 ![My Skills](https://skillicons.dev/icons?i=python,fortran,c&theme=light) <img src='https://github.com/neutrinomuon/AST4001-Extragalactic-Astronomy/blob/master/figures/FADO%20logo%20F-01.png?raw=true' style="background-color:white;" width="48px">
