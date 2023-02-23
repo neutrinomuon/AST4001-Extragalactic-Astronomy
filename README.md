@@ -1,7 +1,7 @@
 ### AST4001 - Extragalactic Course
 
 ![My Skills](https://skillicons.dev/icons?i=python,fortran,c,numpy&theme=light)<br>
-<img src='https://github.com/neutrinomuon/AST4001-Extragalactic-Astronomy/blob/master/figures/FADO%20logo%20F-01.png?raw=true' width=10%>
+<img src='https://github.com/neutrinomuon/AST4001-Extragalactic-Astronomy/blob/master/figures/FADO%20logo%20F-01.png?raw=true' width=5px>
 <center>Assignment 2023<br>
 
 ANALYSIS OF SPECTROPHOTOMETRIC AND PHYSICAL PROPERTIES OF GALAXIES<br></center>
