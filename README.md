@@ -27,23 +27,22 @@ a course on extragalactic astronomy. The notebook is structured into five
 sections, each addressing a specific problem or question related to
 extragalactic astronomy.
 
-- Section 1 asks the student to generate an artificial star cluster with a given
-Salpeter initial mass function (IMF) and plot a histogram of stars as a
-function of mass.
+- Section 1 asks the student to generate an artificial star cluster with a
+  given Salpeter initial mass function (IMF) and plot a histogram of stars as
+  a function of mass.
 
-- Section 2 involves computing the cooling time for a hot, X-ray emitting gas in
-a galaxy cluster and comparing it to the Hubble time.
+- Section 2 involves computing the time evolution of colors due to the stellar
+  populations.
 
-- In section 3, the student is asked to compute the mass of gas required to form
-a given number of stars, assuming a constant star formation rate and a
-Chabrier IMF.
+- In section 3, the student is asked to compute the tables and sizes of
+  galaxies using photometric values.
 
-- Section 4 involves computing the expected number of Type Ia supernovae in a
-galaxy cluster of a given mass, using an empirical relation between the
-supernova rate and the cluster mass.
+- Section 4 involves analysing the FADO spectral synthesis by-products,
+  classification of galaxies according to classical diagnostic diagrams using
+  optical emission-line ratios.
 
-- Finally, section 5 asks the student to calculate the age of a galaxy using the
-Hubble time and the galaxy's redshift.
+- Finally, in section 5 we ask the student to give additional thoughts on the
+  data just analysed.
 
 Throughout the notebook, the student is asked to provide explanations for
 their calculations and interpretations of their results.
