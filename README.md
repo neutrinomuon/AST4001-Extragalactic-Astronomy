@@ -1,6 +1,6 @@
 ### AST4001 - Extragalactic Course
 
-![My Skills](https://skillicons.dev/icons?i=python,fortran,c&theme=light) <img src='https://github.com/neutrinomuon/AST4001-Extragalactic-Astronomy/blob/master/figures/FADO%20logo%20F-01.jpg?raw=true' style="background-color:white;" width="48px">
+![My Skills](https://skillicons.dev/icons?i=python,fortran,c&theme=light) &nbsp;<img src='https://github.com/neutrinomuon/AST4001-Extragalactic-Astronomy/blob/master/figures/FADO%20logo%20F-01.jpg?raw=true' style="background-color:white;" width="48px">
 <center>Assignment 2023<br>
 
 Catarina Lobo: [clobo@fc.up.pt](mailto:clobo@fc.up.pt)
