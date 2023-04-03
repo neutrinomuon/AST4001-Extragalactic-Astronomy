@@ -31,24 +31,22 @@ researchers interested in this area of astronomy.
 The assessment is an IPython notebook titled "Assignment 2023" and is part of
 a course on extragalactic astronomy. The notebook is structured into five
 sections, each addressing a specific problem or question related to
-extragalactic astronomy.
+extragalactic astronomy:
 
-- Section 1 asks the student to generate an artificial star cluster with a
+- Asks the student to generate an artificial star cluster with a
   given Salpeter initial mass function (IMF) and plot a histogram of stars as
   a function of mass.
 
-- Section 2 involves computing the time evolution of colors due to the stellar
+- Involves computing the time evolution of colors due to the stellar
   populations.
 
-- In section 3, the student is asked to compute the tables and sizes of
-  galaxies using photometric values.
+- The student is asked to evaluate some quantitites and create a tables with the sizes ofgalaxies using photometric values.
 
-- Section 4 involves analysing the FADO spectral synthesis by-products,
+- Involves analysing the FADO spectral synthesis by-products,
   classification of galaxies according to classical diagnostic diagrams using
   optical emission-line ratios.
 
-- Finally, in section 5 we ask the student to give additional thoughts on the
-  data just analysed.
+- Finally, we ask the student to give additional thoughts on the data just analysed.
 
 Throughout the notebook, the student is asked to provide explanations for
 their calculations and interpretations of their results.
